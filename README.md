@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KermitOnCrack
+- 👀 I’m interested in stuff like programming
+- 🌱 I’m currently learning lua,C,Js,asm
+- 📫 How to reach me on my dc Findus_Friedrich#5121
